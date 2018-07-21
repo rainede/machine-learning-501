@@ -1,3 +1,9 @@
+---
+technology: Python* programming, Calculus, Linear algebra, Statistics
+how: intel
+author: rainede
+---
+
 # machine-learning-501
 This course provides an overview of machine learning fundamentals on modern Intel® architecture. 
 
